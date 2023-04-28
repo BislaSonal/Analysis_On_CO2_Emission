@@ -2,6 +2,7 @@
 Big data project implemented in 2022 : Analysis on co2 emission
 
 This project has been divided into 3 phases:
+
 Phase 1 : Data Cleaning ( Tools used for this analysis are HDFS, PySpark and Tableau )
 
 Phase 2 : Problem Statement Analysis ( Tools used for this analysis are Apache hive cluster on Databricks cloud platform, and Ambari for visualization )
